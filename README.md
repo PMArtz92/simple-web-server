@@ -1,6 +1,6 @@
 # Simple Web Server in C
 
-This is a simple web server whihc is implemented using basic c libraries and function. use socket to build cliet server connection. This server serve the php files and some media types.
+This is a simple web server which is implemented using basic c libraries and function. Use socket to build client server connection. This server serves the PHP files and some media types.
 
 #### To run this
 
